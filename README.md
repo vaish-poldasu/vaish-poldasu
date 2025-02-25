@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaish-poldasu&show_icons=true&locale=en" alt="vaish-poldasu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-poldasu&" alt="vaish-poldasu" /></p>
+
 
 ## About Me  
 
