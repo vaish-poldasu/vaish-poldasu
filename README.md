@@ -33,5 +33,5 @@
 
 <br><br>
 <p align="center">  
-  <strong>If you find my work helpful, a ⭐️ or follow would make my day! 💖</strong>  
+  <strong>Found this helpful? A ⭐️ or follow would be awesome! t</strong>  
 </p>
