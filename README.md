@@ -33,5 +33,5 @@
 
 <br><br>
 <p align="center">  
-  <strong>Found this helpful? A ⭐️ or follow would be awesome! t</strong>  
+  <strong>Found this helpful? A ⭐️ or follow would be awesome!</strong>  
 </p>
