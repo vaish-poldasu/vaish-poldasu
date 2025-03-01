@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Vaishnavi here!</h1>
+<h1 align="center">Hi , I'm Vaishnavi</h1>
 <h3 align="center">Engineering My Way Up</h3>
 <img align="right" alt="code" width="400px" src="https://camo.githubusercontent.com/1effdbbd80ddf745de7ea9e4ba346cc9c8d193f6c5f661ee7a8b145d4c8aaa88/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7942764135436e455833536434616f642e676966">
 
