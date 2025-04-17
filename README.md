@@ -4,7 +4,7 @@
 <img align="right" alt="code" width="400px" src="https://camo.githubusercontent.com/1effdbbd80ddf745de7ea9e4ba346cc9c8d193f6c5f661ee7a8b145d4c8aaa88/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7942764135436e455833536434616f642e676966">
 
 - I’m currently pursuing **B.Tech in Electronics and Communication Engineering (ECE)** from **IIIT Hyderabad**.  
-- I have a strong passion for software development and engineering, particularly in web development  
+- I have a strong passion for software development and engineering, particularly in Machine Learning 
 -  I am passionate about coding and dedicated to constant growth and learning.  
 - Alongside my tech interests, I have a creative side—I love painting and drawing.
 
@@ -24,10 +24,9 @@
 
 ## About Me  
 
-- 💻 Currently exploring **ML, Deep learning**.  
-- 🌱 Learning **Full Stack Development** and building exciting projects.  
+- 💻 Currently exploring **ML, Deep learning** and building exciting projects.  
 - 👯 I’m looking to collaborate on **Front-End development Projects**
-- 🛠️ Experienced with **C++, JavaScript, Python, HTML/CSS, React, MATLAB, Verilog, Arduino, Git**, and more.
+- 🛠️ Experienced with **C++, JavaScript, Python, HTML/CSS, React, PyTorch and Python libraries**, and more.
 - 😊 I enjoy working with Canva and am open to creative collaborations!
 - 💬 Always happy to **help and collaborate**—feel free to ask me anything!  
 
