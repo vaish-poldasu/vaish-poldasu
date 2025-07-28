@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vaishnavi-poldasu-8286b1286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-poldasu" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -45,14 +44,12 @@
 </p>
 
 <!-- GitHub stats -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaish-poldasu&show_icons=true&locale=en&layout=compact" alt="vaish-poldasu" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaish-poldasu&show_icons=true&locale=en&layout=compact" alt="vaish-poldasu" />
 </p>
 
-<!-- Clear float so "About Me" comes below -->
-<div style="clear: both;"></div>
-
-<br>
+<!-- Spacer to move "About Me" below -->
+<br><br>
 
 ## About Me
 
@@ -61,7 +58,6 @@
 - 🛠️ Experienced with **C++, JavaScript, Python, HTML/CSS, React, PyTorch**, and more  
 - 😊 I enjoy working with **Canva** and am open to creative collaborations!  
 - 💬 Always happy to **help and collaborate**—feel free to ask me anything!
-
 
 <br><br>
 <p align="center">  
