@@ -18,14 +18,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaish-poldasu&show_icons=true&locale=en&layout=compact" alt="vaish-poldasu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaish-poldasu&show_icons=true&locale=en" alt="vaish-poldasu" /></p>
-
 
 
 ## About Me  
 
 - 💻 Currently exploring **ML, Deep learning** and building exciting projects.  
-- 👯 I’m looking to collaborate on **Front-End development Projects**
+- 👯 I’m looking to collaborate on **Software development Projects**
 - 🛠️ Experienced with **C++, JavaScript, Python, HTML/CSS, React, PyTorch and Python libraries**, and more.
 - 😊 I enjoy working with Canva and am open to creative collaborations!
 - 💬 Always happy to **help and collaborate**—feel free to ask me anything!  
