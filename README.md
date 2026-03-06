@@ -44,9 +44,9 @@
 </p>
 
 <!-- GitHub stats -->
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaish-poldasu&show_icons=true&locale=en&layout=compact" alt="vaish-poldasu" />
-</p>
+</p> -->
 
 <!-- Spacer to move "About Me" below -->
 <br><br>
